@@ -31,7 +31,7 @@
     "date-fns": "^2.23.0",
     "eleventy-plugin-youtube-embed": "^1.6.4",
     "firebase-tools": "^9.17.0",
-    "hardhat": "^2.7.0",
+    "hardhat": "^2.12.5",
     "html-minifier": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
